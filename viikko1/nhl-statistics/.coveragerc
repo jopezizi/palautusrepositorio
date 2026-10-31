@@ -1,0 +1,6 @@
+[run]
+source = src 
+
+[report]
+include = src/statistics_service.py
+show_missing = true
