@@ -9,3 +9,6 @@ report.html
 browser/
 playwright-log.txt
 clones
+.python-version
+pyproject.toml
+uv.lock
